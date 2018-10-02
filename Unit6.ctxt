@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Unit6
+comment0.text=\r\n\ Unit6\r\n\ \r\n\ @author\ Maggie\ Huang,\ Dimitra\ D.\r\n\ @version\ 2/13/18\r\n
+comment1.params=str
+comment1.target=java.lang.String\ capitalize(java.lang.String)
+comment2.params=statement
+comment2.target=boolean\ isPalindrome(java.lang.String)
+numComments=3

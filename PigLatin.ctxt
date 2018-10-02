@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PigLatin
+comment0.text=\r\n\ PigLatin\r\n\r\n\ @author\ Maggie\ Huang\r\n\ @version\ 2/13/18\r\n
+comment1.params=word
+comment1.target=java.lang.String\ translateWord(java.lang.String)
+comment2.params=c
+comment2.target=boolean\ isVowel(char)
+numComments=3

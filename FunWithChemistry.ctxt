@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=FunWithChemistry
+comment0.text=\r\n\ FunWithChemistry\r\n\r\n\ @author\ Maggie\ Huang\r\n\ @version\ 2/22/18\r\n
+comment1.params=
+comment1.target=FunWithChemistry()
+comment2.params=molecule
+comment2.target=FunWithChemistry(java.lang.String)
+comment3.params=element
+comment3.target=double\ elementWeight(java.lang.String)
+comment4.params=molecule
+comment4.target=void\ parseMolecule(java.lang.String)
+comment5.params=
+comment5.target=double\ getMoleculeWeight()
+comment6.params=moles
+comment6.target=double\ molesToGrams(double)
+comment7.params=grams
+comment7.target=double\ gramsToMoles(double)
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PaperFolds
+comment0.text=\r\n\ PaperFolds\r\n\r\n\ @author\ Maggie\ Huang\r\n\ @version\ 2/13/18\r\n
+comment1.params=n
+comment1.target=java.lang.String\ paperFolds(int)
+comment2.params=c
+comment2.target=char\ flip(char)
+comment3.params=str
+comment3.target=java.lang.String\ reverseAndFlip(java.lang.String)
+numComments=4

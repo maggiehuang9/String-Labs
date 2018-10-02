@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AtomicMassTable
+comment1.params=
+comment1.target=AtomicMassTable()
+comment2.params=element
+comment2.target=double\ get(java.lang.String)
+numComments=3
